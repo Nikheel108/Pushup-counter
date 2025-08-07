@@ -3,12 +3,12 @@
 
 # 📌 Project Overview: Push-up Counter with MediaPipe
 
-    - This project is a real-time push-up counter developed using Python, MediaPipe, and OpenCV. It uses a webcam feed (e.g., a regular webcam or DroidCam mobile camera) to detect body landmarks and calculate joint angles to accurately count push-ups based on user posture.
+- This project is a real-time push-up counter developed using Python, MediaPipe, and OpenCV. It uses a webcam feed (e.g., a regular webcam or DroidCam mobile camera) to detect body landmarks and calculate joint angles to accurately count push-ups based on user posture.
 
 # 🎯 Key Features
-    - Pose Detection: Utilizes MediaPipe's pose estimation model to track body landmarks such as shoulders, elbows, wrists, hips, and ankles.
+- Pose Detection: Utilizes MediaPipe's pose estimation model to track body landmarks such as shoulders, elbows, wrists, hips, and ankles.
 
-    - Angle Calculation: Calculates elbow angles to determine the user's push-up stage (up or down) and checks back straightness to ensure proper form.
+- Angle Calculation: Calculates elbow angles to determine the user's push-up stage (up or down) and checks back straightness to ensure proper form.
 
 # Real-time Feedback:
 
